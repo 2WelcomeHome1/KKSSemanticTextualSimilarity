@@ -1,0 +1,42 @@
+Начинаем обучение...
+Epoch 1/20
+2023-10-01 20:07:12.589630: I tensorflow/stream_executor/cuda/cuda_dnn.cc:384] Loaded cuDNN version 8100
+12000/12000 [==============================] - 127s 10ms/step - loss: 0.5226 - accuracy: 0.7546 - val_loss: 0.4646 - val_accuracy: 0.7887
+Epoch 2/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.2761 - accuracy: 0.8884 - val_loss: 0.1993 - val_accuracy: 0.9205
+Epoch 3/20
+12000/12000 [==============================] - 125s 10ms/step - loss: 0.1206 - accuracy: 0.9613 - val_loss: 0.2006 - val_accuracy: 0.9282
+Epoch 4/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0752 - accuracy: 0.9784 - val_loss: 0.1970 - val_accuracy: 0.9362
+Epoch 5/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0569 - accuracy: 0.9841 - val_loss: 0.1955 - val_accuracy: 0.9395
+Epoch 6/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0471 - accuracy: 0.9873 - val_loss: 0.2076 - val_accuracy: 0.9372
+Epoch 7/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0428 - accuracy: 0.9884 - val_loss: 0.1940 - val_accuracy: 0.9418
+Epoch 8/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0389 - accuracy: 0.9895 - val_loss: 0.1631 - val_accuracy: 0.9545
+Epoch 9/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0350 - accuracy: 0.9906 - val_loss: 0.1711 - val_accuracy: 0.9515
+Epoch 10/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0322 - accuracy: 0.9916 - val_loss: 0.1624 - val_accuracy: 0.9551
+Epoch 11/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0309 - accuracy: 0.9920 - val_loss: 0.1406 - val_accuracy: 0.9602
+Epoch 12/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0279 - accuracy: 0.9928 - val_loss: 0.1633 - val_accuracy: 0.9556
+Epoch 13/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0261 - accuracy: 0.9933 - val_loss: 0.1457 - val_accuracy: 0.9593
+Epoch 14/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0241 - accuracy: 0.9937 - val_loss: 0.1298 - val_accuracy: 0.9635
+Epoch 15/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0231 - accuracy: 0.9940 - val_loss: 0.1281 - val_accuracy: 0.9634
+Epoch 16/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0221 - accuracy: 0.9943 - val_loss: 0.1597 - val_accuracy: 0.9587
+Epoch 17/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0220 - accuracy: 0.9942 - val_loss: 0.1348 - val_accuracy: 0.9632
+Epoch 18/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0209 - accuracy: 0.9946 - val_loss: 0.1464 - val_accuracy: 0.9596
+Epoch 19/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0199 - accuracy: 0.9946 - val_loss: 0.1496 - val_accuracy: 0.9545
+Epoch 20/20
+12000/12000 [==============================] - 124s 10ms/step - loss: 0.0187 - accuracy: 0.9951 - val_loss: 0.1343 - val_accuracy: 0.9573
